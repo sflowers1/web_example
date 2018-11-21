@@ -1,0 +1,30 @@
+.
+|---assets
+|   |-- images
+|   |-- scripts
+|   |   \-- jquery-2.0.3.js
+|   |-- stylesheets
+|       \-- style.css
+|-- content
+|   |-- addmember.php       : add member functionality
+|   |-- categories.php      : display list of categories
+|   |-- cleanse.php         : contains function to sanitise user input
+|   |-- contact.php         : contact page
+|   |-- createreview.php    : page to create a review	
+|   |-- dbconnect.php       : holds function for db connection
+|   |-- deletemember.php    : removal of a member
+|   |-- deletereview.php    : removal of a review
+|   |-- editreview.php      : edit review functionality
+|   |-- footer.php          : template footer for each page
+|   |-- header.php          : template header for each page
+|   |-- index.php           : home page 
+|   |-- listmembers.php     : displays list of all members
+|   |-- login.php           : handles the member / admin login
+|   |-- logout.php          : logs out a logged in user
+|   |-- menu.php            : handles display of the navigation bar
+|   |-- reviews.php         : displays reviews for the logged in user
+|   |-- w12030957.php       : critical discussion text
+|-- features.txt            : this file!
+\-- index.html              : standard home page, redirects to /content/index.php
+
+5 directories, 22 files

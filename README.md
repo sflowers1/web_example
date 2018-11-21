@@ -1,1 +1,1 @@
-web_example
+Academic project creating a sample website using PHP and MySQL backend.

@@ -1,0 +1,104 @@
+body {
+	background-color: #99CCFF;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 1em
+	color: black;
+}
+
+h3 {
+	padding: 8px 10px;
+}
+
+h4 {
+	padding: 2px 12px;
+}
+
+form label {
+	display: inline-block;
+	width: 100px;
+}
+
+table, td, th {
+	border: 1px solid black;
+	padding: 5px;
+	border-collapse: collapse;
+	font-size: 10pt;
+}
+
+th {
+	background-color: #8AB8E6;
+}
+
+li.nav {
+	display: block;
+	float: left;
+}
+
+ul.nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: block;
+	
+}
+
+.menu {
+	font-size: 10pt;
+	display: block;
+	width: 140px;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+	background-color: #8AB8E6;
+}
+
+a:hover, a:active {
+	background-color: #7AA3CC;
+}
+
+p.clearfloat {
+	clear: both;
+}
+
+p.info {
+	font-style: italic;
+}
+
+.formlabel {
+	width: 150px;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 80%;
+}
+
+.formradio {
+	width: auto;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 80%;
+}
+
+.labelstatus {
+	width: 700px;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 80%;
+}
+
+.footer {
+	font-size: 8pt;
+	font-style: italic;
+	padding: 4px 15px;
+}
+
+.fixed-input {
+	width: 150px;
+	padding: 3px;
+	border: 1px solid black;
+}
+
+code {
+	background-color: #8AB8E6;
+}
